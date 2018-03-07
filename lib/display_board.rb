@@ -3,7 +3,7 @@
 def display_board(answers)
   puts "   |   |   "
   puts "-----------"
-  puts "   | #{answers[4]}  |   "
+  puts "   | #{answers[4]} |   "
   puts "-----------"
   puts "   |   |   "
 end
